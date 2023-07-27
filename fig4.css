@@ -1,0 +1,39 @@
+.box{
+    width: 460px;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.img{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.btn{
+    width: 150px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    margin: 4px;
+    border-radius: 22px;
+    border: none;
+}
+
+.text{
+    color: gray;
+}
+
+.link{
+    color: black;
+}
+
+.input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 4px;
+    border: 1px solid lightgray;
+}
